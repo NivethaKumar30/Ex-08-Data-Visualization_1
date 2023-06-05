@@ -103,7 +103,6 @@ sns.displot(x="total_bill",data=tips_df,hue="sex",
 
 #RESULT:
 
-
-
+Thus Data Visualization is performed on the given dataset and save the data to a file.
 
 
